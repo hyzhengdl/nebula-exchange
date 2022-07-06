@@ -1,3 +1,5 @@
+nebula 官方exchange，增加了删除数据的功能，spark job 加上-R即可。  
+
 # Nebula Exchange 2.0
  [中文版](https://github.com/vesoft-inc/nebula-exchange/blob/master/README-CN.md)
  
